@@ -1,32 +1,7 @@
 
 #Declaring the variables in BEGIN block
 BEGIN  {
-	MOC1=0;
-	MTC1=0;
-	SMSMO1=0;
-	SMSMT1=0;
-	c11=0;
-	c12=0;
-	call_1=0
-	sms_1=0
-
-	MOC2=0;
-	MTC2=0;
-	SMSMO2=0;
-	SMSMT2=0;
-	c21=0;
-	c22=0;
-	call_2=0;
-	sms_2=0;
-
-	MOC3=0;
-	MTC3=0;
-	SMSMO3=0;
-	SMSMT3=0;
-	c31=0;
-	c32=0;
-	call_3=0
-	sms_3=0
+	
 }
 
 
